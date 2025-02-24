@@ -1,0 +1,100 @@
+About Dataset
+The uploaded dataset contains detailed information about employees, training programs, and other HR-related metrics. Here's an overview:
+
+General Details:
+
+Rows: 3,150
+
+Columns: 39
+
+Column Names:
+
+Unnamed: 0
+
+FirstName
+
+LastName
+
+StartDate
+
+ExitDate
+
+Title
+
+Supervisor
+
+ADEmail
+
+BusinessUnit
+
+EmployeeStatus
+
+EmployeeType
+
+PayZone
+
+EmployeeClassificationType
+
+TerminationType
+
+TerminationDescription
+
+DepartmentType
+
+Division
+
+DOB
+
+State
+
+JobFunctionDescription
+
+GenderCode
+
+LocationCode
+
+RaceDesc
+
+MaritalDesc
+
+Performance Score
+
+Current Employee Rating
+
+Employee ID
+
+Survey Date
+
+Engagement Score
+
+Satisfaction Score
+
+Work-Life Balance Score
+
+Training Date
+
+Training Program Name
+
+Training Type
+
+Training Outcome
+
+Location
+
+Trainer
+
+Training Duration (Days)
+
+Training Cost
+
+Summary:
+
+Employee Data: Contains details such as names, start and exit dates, job titles, and supervisors.
+
+Performance and Survey Metrics: Includes engagement, satisfaction, and work-life balance scores.
+
+Training Information: Covers program names, training types, outcomes, durations, costs, and trainer details.
+
+Diversity Details: Includes gender, race, and marital status.
+
+Status & Classification: Indicates employee status (active/terminated), type, and termination reasons.
